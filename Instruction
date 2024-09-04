@@ -1,0 +1,10 @@
+# Attendance Management System
+Technologies used:  HTML5, CSS, PHP and MySQL.
+
+## Importing Database
+- Download the given \*attsystem.sql file.
+- Create a database attsystem
+- Import \*attsystem.sql, if everything Okay then database will be imported.
+
+run command 
+mysql -u username -p database_name < path/to/attsystem.sql
